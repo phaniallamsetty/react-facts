@@ -1,7 +1,9 @@
 function Footer() {
     return (
         <>
-            <h1>Footer</h1>
+            <footer>
+                <small>&copy; AltyTech Canada. All rights reserved</small>
+            </footer>
         </>
     )
 }

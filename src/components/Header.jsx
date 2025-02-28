@@ -1,7 +1,10 @@
 function Header() {
     return (
         <>
-            <h1>Header</h1>
+            <header>
+                <img src="/src/assets/react.svg" className="logo react" alt="React logo" />
+                <h1>ReactFacts</h1>
+            </header>
         </>
     )
 }
