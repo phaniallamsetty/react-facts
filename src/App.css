@@ -54,12 +54,12 @@ nav {
 }
 
 nav > img {
-  width: 50px;
+  width: 80px;
 }
 
 nav > span {
   color: #61DAFB;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 main {
